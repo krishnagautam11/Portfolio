@@ -91,7 +91,7 @@ export const About = ({ sectionRef }) => {
             <div className="mb-15 mt-15">
               <h3 className="text-xl font-semibold text-blue-400 mb-5">Resume</h3>
               <a
-                href="/resume.pdf"
+                href="/Resume11.pdf"
                 download
                 className="inline-block bg-blue-500 hover:bg-blue-600 text-white px-6 py-2 rounded-full transition duration-300"
               >
