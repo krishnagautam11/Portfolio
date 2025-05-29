@@ -23,12 +23,12 @@ export const Projects = ({ sectionRef }) => {
           <ProjectCard
             title="Netflix Clone"
             description="A web application with REACT, NODE, EXPRESS, MONGODB, MONGOOSE"
-            link="https://netflix-frontend-482z8b4d5-krishna-gautams-projects-4f6e85c9.vercel.app/"
+            link="https://netflix-frontend-inky.vercel.app/"
           />
           <ProjectCard
             title="E-commerce Site"
             description="A web application with REACT, TAILWIND, VANILLA CSS, NODE, EXPRESS, MONGODB, MONGOOSE"
-            link="https://my-shop-client-pwiq455la-krishna-gautams-projects-4f6e85c9.vercel.app/"
+            link="https://my-shop-client-sage.vercel.app/"
           />
           <ProjectCard
             title="Brain Tumor Detection System"
